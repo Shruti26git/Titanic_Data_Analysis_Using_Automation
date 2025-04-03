@@ -1,2 +1,11 @@
 # Titanic_Data_Analysis_Using_Automation
 ![BirthRate_distribution](https://github.com/user-attachments/assets/12edb659-3737-4001-9495-c793a35a0edc)
+![Survived_distribution](https://github.com/user-attachments/assets/81b0f476-2d6c-471a-9873-17b306512757)
+![SibSp_distribution](https://github.com/user-attachments/assets/455be9f4-88c5-4dea-9c4c-be837fadc15b)
+![Pclass_distribution](https://github.com/user-attachments/assets/d517fbe1-0cfb-4af6-b110-8d5ac97de042)
+![PassengerId_distribution](https://github.com/user-attachments/assets/bc7deda6-32cc-4fff-b7e4-88ddb1932266)
+![Parch_distribution](https://github.com/user-attachments/assets/57739605-13f3-421e-b9a5-be4060c9d8f1)
+![InternetUsers_distribution](https://github.com/user-attachments/assets/8647d11a-99d4-4c33-8f7d-4a88dfd0b228)
+![Fare_distribution](https://github.com/user-attachments/assets/ce97c55e-2685-4c2a-a38f-21f894bd4c0c)
+![Age_distribution](https://github.com/user-attachments/assets/92decd88-d731-49fb-b817-a30251a915be)
+![correlation_heatmap](https://github.com/user-attachments/assets/0462232e-411a-4e86-b9a7-91e9d29301b2)
